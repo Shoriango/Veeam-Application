@@ -15,4 +15,4 @@ In case the sys.argv was used, the following code would have to be executed to s
 
 python folder_sync.py <source_path> <replica_path> <sync_interval> <log_file_path> 
 
-substituting all the variables here with the correct values
+Substituting all the variables here with the correct values
