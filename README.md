@@ -4,7 +4,7 @@ There is no need to install any libraries since everything was made with python 
 
 To start the program in console, simply run: python folder_sync.py
 
-A log file will be created under the name "folder_sync.log" after the first syncronizathion.
+A log file will be created under the name "folder_sync.log" after the first syncronizathion aswell as the replica folder in case it doesnt exist already.
 
 If using an IDE, sometimes changes will not happen instantly, possibly taking some seconds to appear in the IDE.
 
